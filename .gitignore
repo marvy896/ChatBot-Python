@@ -1,0 +1,7 @@
+__pycache__
+Include
+Lib
+Scripts
+words.pkl
+*.pkl
+chabot_model.h5
